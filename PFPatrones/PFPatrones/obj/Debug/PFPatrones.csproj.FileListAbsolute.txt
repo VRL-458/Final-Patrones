@@ -1,0 +1,7 @@
+D:\UPB M-2024\PatronesDiseno\ProyectoFinal\PFPatrones\PFPatrones\bin\Debug\PFPatrones.exe.config
+D:\UPB M-2024\PatronesDiseno\ProyectoFinal\PFPatrones\PFPatrones\bin\Debug\PFPatrones.exe
+D:\UPB M-2024\PatronesDiseno\ProyectoFinal\PFPatrones\PFPatrones\bin\Debug\PFPatrones.pdb
+D:\UPB M-2024\PatronesDiseno\ProyectoFinal\PFPatrones\PFPatrones\obj\Debug\PFPatrones.csproj.AssemblyReference.cache
+D:\UPB M-2024\PatronesDiseno\ProyectoFinal\PFPatrones\PFPatrones\obj\Debug\PFPatrones.csproj.CoreCompileInputs.cache
+D:\UPB M-2024\PatronesDiseno\ProyectoFinal\PFPatrones\PFPatrones\obj\Debug\PFPatrones.exe
+D:\UPB M-2024\PatronesDiseno\ProyectoFinal\PFPatrones\PFPatrones\obj\Debug\PFPatrones.pdb

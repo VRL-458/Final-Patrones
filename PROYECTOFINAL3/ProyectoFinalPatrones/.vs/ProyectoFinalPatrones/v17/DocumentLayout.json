@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|d:\\upb m-2024\\patronesdiseno\\proyectofinal\\proyectofinal2\\proyectofinalpatrones\\reportvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:reportvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\sistemamantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:sistemamantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\spaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:spaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:ivisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\sistemabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:sistemabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\sistemalimpieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:sistemalimpieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\sistemacocina .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:sistemacocina .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\sistemarecepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:sistemarecepcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\ispastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:ispastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|d:\\upb m-2024\\patronesdiseno\\proyectofinal\\proyectofinal2\\proyectofinalpatrones\\ielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:ielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\nodisponiblestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:nodisponiblestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\reservadostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:reservadostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\disponiblestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5A1E83-CAF6-4A89-A289-DEAD84A989E1}|ProyectoFinalPatrones.csproj|solutionrelative:disponiblestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 359,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportVisitor.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\ReportVisitor.cs",
+              "RelativeDocumentMoniker": "ReportVisitor.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\ReportVisitor.cs",
+              "RelativeToolTip": "ReportVisitor.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:33:58.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IElement.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\IElement.cs",
+              "RelativeDocumentMoniker": "IElement.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\IElement.cs",
+              "RelativeToolTip": "IElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:41:46.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NoDisponibleState.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\NoDisponibleState.cs",
+              "RelativeDocumentMoniker": "NoDisponibleState.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\NoDisponibleState.cs",
+              "RelativeToolTip": "NoDisponibleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:21:21.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReservadoState.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\ReservadoState.cs",
+              "RelativeDocumentMoniker": "ReservadoState.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\ReservadoState.cs",
+              "RelativeToolTip": "ReservadoState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:20:42.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DisponibleState.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\DisponibleState.cs",
+              "RelativeDocumentMoniker": "DisponibleState.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\DisponibleState.cs",
+              "RelativeToolTip": "DisponibleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:19:45.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISpaState.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\ISpaState.cs",
+              "RelativeDocumentMoniker": "ISpaState.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\ISpaState.cs",
+              "RelativeToolTip": "ISpaState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:19:12.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SistemaRecepcion.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SistemaRecepcion.cs",
+              "RelativeDocumentMoniker": "SistemaRecepcion.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SistemaRecepcion.cs",
+              "RelativeToolTip": "SistemaRecepcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:44:18.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SistemaMantenimiento.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SistemaMantenimiento.cs",
+              "RelativeDocumentMoniker": "SistemaMantenimiento.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SistemaMantenimiento.cs",
+              "RelativeToolTip": "SistemaMantenimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:41:54.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpaService.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SpaService.cs",
+              "RelativeDocumentMoniker": "SpaService.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SpaService.cs",
+              "RelativeToolTip": "SpaService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:22:02.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVisitor.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\IVisitor.cs",
+              "RelativeDocumentMoniker": "IVisitor.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\IVisitor.cs",
+              "RelativeToolTip": "IVisitor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:40:07.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SistemaBar.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SistemaBar.cs",
+              "RelativeDocumentMoniker": "SistemaBar.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SistemaBar.cs",
+              "RelativeToolTip": "SistemaBar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:43:32.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SistemaCocina .cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SistemaCocina .cs",
+              "RelativeDocumentMoniker": "SistemaCocina .cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SistemaCocina .cs",
+              "RelativeToolTip": "SistemaCocina .cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:43:00.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SistemaLimpieza.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SistemaLimpieza.cs",
+              "RelativeDocumentMoniker": "SistemaLimpieza.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\SistemaLimpieza.cs",
+              "RelativeToolTip": "SistemaLimpieza.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:42:28.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\ISubject.cs",
+              "RelativeDocumentMoniker": "ISubject.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\ISubject.cs",
+              "RelativeToolTip": "ISubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:41:24.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\IObserver.cs",
+              "RelativeDocumentMoniker": "IObserver.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\IObserver.cs",
+              "RelativeToolTip": "IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:40:53.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UPB M-2024\\PatronesDiseno\\ProyectoFinal\\PROYECTOFINAL2\\ProyectoFinalPatrones\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwCMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:37:45.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

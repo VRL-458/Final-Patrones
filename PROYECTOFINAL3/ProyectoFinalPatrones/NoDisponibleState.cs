@@ -12,5 +12,10 @@ namespace ProyectoFinalPatrones
         {
             Console.WriteLine("Servicio no disponible para la fecha y hora especificadas.");
         }
+        public bool recervar()
+        {
+            //funcion aleatoria.
+            return true;
+        }
     }
 }

@@ -12,3 +12,10 @@ D:\UPB M-2024\PatronesDiseno\ProyectoFinal\PROYECTOFINAL2\ProyectoFinalPatrones\
 D:\UPB M-2024\PatronesDiseno\ProyectoFinal\PROYECTOFINAL2\ProyectoFinalPatrones\obj\Debug\ProyectoFinalPatrones.csproj.CoreCompileInputs.cache
 D:\UPB M-2024\PatronesDiseno\ProyectoFinal\PROYECTOFINAL2\ProyectoFinalPatrones\obj\Debug\ProyectoFinalPatrones.exe
 D:\UPB M-2024\PatronesDiseno\ProyectoFinal\PROYECTOFINAL2\ProyectoFinalPatrones\obj\Debug\ProyectoFinalPatrones.pdb
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Patrones de diseño\Final\PROYECTOFINAL3\ProyectoFinalPatrones\bin\Debug\ProyectoFinalPatrones.exe.config
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Patrones de diseño\Final\PROYECTOFINAL3\ProyectoFinalPatrones\bin\Debug\ProyectoFinalPatrones.exe
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Patrones de diseño\Final\PROYECTOFINAL3\ProyectoFinalPatrones\bin\Debug\ProyectoFinalPatrones.pdb
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Patrones de diseño\Final\PROYECTOFINAL3\ProyectoFinalPatrones\obj\Debug\ProyectoFinalPatrones.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Patrones de diseño\Final\PROYECTOFINAL3\ProyectoFinalPatrones\obj\Debug\ProyectoFinalPatrones.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Patrones de diseño\Final\PROYECTOFINAL3\ProyectoFinalPatrones\obj\Debug\ProyectoFinalPatrones.exe
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Patrones de diseño\Final\PROYECTOFINAL3\ProyectoFinalPatrones\obj\Debug\ProyectoFinalPatrones.pdb
